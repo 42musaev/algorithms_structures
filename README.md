@@ -1,5 +1,10 @@
-# Algorithms
+# Data structures and algorithms
 
-- [Binary search](/binary_search)
-- [Sorting by selection](/sorting_by_selection)
-- [Quick sort](/quick_sort)
+
+## algorithms
+- [Binary search](/algorithms/binary_search)
+- [Sorting by selection](/algorithms/sorting_by_selection)
+- [Quick sort](/algorithms/quick_sort)
+
+# structures
+- [Linked list](/structures/linked_list)
